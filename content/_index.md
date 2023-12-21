@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Santi's Blog
 toc: false
 ---
 
-This is the landing page.
+This is the latest news.
 
 ## Explore
 
